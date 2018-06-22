@@ -28,7 +28,7 @@ addTask = (ev) => {
                     onChange={this.handleChange}
                     type="text" 
                     className="form-control" 
-                    placeholder="Add task" 
+                    placeholder="What are your goals?" 
                     aria-label="Recipient's username" 
                     aria-describedby="basic-addon2"
                 />
@@ -38,7 +38,7 @@ addTask = (ev) => {
                     className="btn btn-outline-secondary" 
                     type="button"
                 >
-                    Button
+                    Add task
                 </button>
                 </div>
             </div>
